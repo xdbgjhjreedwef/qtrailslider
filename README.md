@@ -1,6 +1,5 @@
 # qtrailslider
 QSlider with additional handle for displaying real position
-#Gif
 
 
 
